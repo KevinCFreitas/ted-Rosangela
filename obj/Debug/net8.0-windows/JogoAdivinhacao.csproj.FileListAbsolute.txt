@@ -1,0 +1,14 @@
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\bin\Debug\net8.0-windows\JogoAdivinhacao.exe
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\bin\Debug\net8.0-windows\JogoAdivinhacao.deps.json
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\bin\Debug\net8.0-windows\JogoAdivinhacao.runtimeconfig.json
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\bin\Debug\net8.0-windows\JogoAdivinhacao.dll
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\bin\Debug\net8.0-windows\JogoAdivinhacao.pdb
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.dll
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\refint\JogoAdivinhacao.dll
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.pdb
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\kevin\Downloads\ted rosangela\ted rosangela\JogoAdivinhacao\obj\Debug\net8.0-windows\ref\JogoAdivinhacao.dll

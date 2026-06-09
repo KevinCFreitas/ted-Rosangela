@@ -80,7 +80,7 @@ Ou abra no **Visual Studio / VS Code** e pressione `F5`.
 
 ---
 
-## 🔢 Dados de Exemplo
+## Dados de Exemplo
 
 Ao iniciar, a aplicação carrega automaticamente:
 
